@@ -14,11 +14,7 @@ app.use(cors())
 
 app.use(express.static('Views'))
 app.use('/submit', route)
-app.use('/s', (req,res)=>{
-    res.json({
-        body: req.body
-    })
-})
+
 
 
 
