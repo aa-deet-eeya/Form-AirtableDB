@@ -28,7 +28,7 @@ Now go ahead and launch the server in your local machine
 
 
 ## Glitch
-This project is hosted in Glitch as well :
+This project is hosted on Glitch as well :
 
 Live Code : https://glitch.com/edit/#!/airtabledbform
 
